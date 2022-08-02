@@ -1,0 +1,17 @@
+{
+  "name": "18.vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-react": "^2.0.0",
+    "react": "^18.2.0",
+    "vite": "^3.0.4"
+  }
+}
